@@ -69,14 +69,16 @@ To view the project locally, follow these steps:
 
 ## Screenshots
 ### Home Page
-https://github.com/user-attachments/assets/4daca59e-ec98-4a1c-847f-212bcbfbdd51)
+https://github.com/user-attachments/assets/4daca59e-ec98-4a1c-847f-212bcbfbdd51
 
 
 ### Menu Page
-![Menu Page](images/menu-screenshot.png)
+![image](https://github.com/user-attachments/assets/db6dcb31-27aa-4dee-9a66-b36d9557b996)
+
 
 ### Music Events Page
-![Music Page](images/music-screenshot.png)
+![image](https://github.com/user-attachments/assets/2796eaf5-ec1f-4ba5-92aa-92b64266a724)
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
