@@ -69,7 +69,7 @@ To view the project locally, follow these steps:
 
 ## Screenshots
 ### Home Page
-https://github.com/user-attachments/assets/4daca59e-ec98-4a1c-847f-212bcbfbdd51
+![image](https://github.com/user-attachments/assets/f69fc006-b665-49ea-9148-62e0f7c4899d)
 
 
 ### Menu Page
