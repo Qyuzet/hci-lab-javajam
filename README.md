@@ -69,8 +69,8 @@ To view the project locally, follow these steps:
 
 ## Screenshots
 ### Home Page
-![Home Page](![image](https://github.com/user-attachments/assets/4daca59e-ec98-4a1c-847f-212bcbfbdd51)
-)
+https://github.com/user-attachments/assets/4daca59e-ec98-4a1c-847f-212bcbfbdd51)
+
 
 ### Menu Page
 ![Menu Page](images/menu-screenshot.png)
