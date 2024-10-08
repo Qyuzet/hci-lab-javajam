@@ -90,4 +90,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 5. Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
