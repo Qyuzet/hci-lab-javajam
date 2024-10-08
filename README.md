@@ -4,7 +4,7 @@ Great to hear that you've uploaded the project to GitHub! Let's create a detaile
 
 # JavaJam Coffee House - HCI Lab Project
 
-Welcome to the **JavaJam Coffee House** website project! This project is part of a lab exercise for the Human-Computer Interaction (HCI) course. The purpose of this project is to demonstrate the use of HTML and CSS to create a responsive and aesthetically pleasing website for a fictional coffee house called JavaJam.
+Welcome to the **JavaJam Coffee House** website project! This project is part of a lab exercise for the Human-Computer Interaction (HCI) course. The purpose of this project is to demonstrate the use of HTML and CSS to create a responsive and aesthetically pleasing website for a fictional coffee house called JavaJam. [TRY NOW!](https://qyuzet.github.io/hci-lab-javajam/)
 
 ![JavaJam Coffee House](images/javajamlogo.jpg)
 
